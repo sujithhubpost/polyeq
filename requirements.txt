@@ -1,0 +1,5 @@
+werkzeug 
+flask
+gevent
+opencv-python=4.1.2.30
+tensorflow-cpu
