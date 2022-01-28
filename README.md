@@ -2,7 +2,21 @@
 
 ## Web interface
 
-![alt Home](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+### Home 
+
+![alt Home](https://github.com/sujithhubpost/polyeq/blob/main/screenshots/home.png?raw=true)
+
+### Preview
+
+![alt Home](https://github.com/sujithhubpost/polyeq/blob/main/screenshots/solver_preview.png?raw=true)
+
+### Solver
+
+![alt Home](https://github.com/sujithhubpost/polyeq/blob/main/screenshots/solver_home.png?raw=true)
+
+### Solution
+
+![alt Home](https://github.com/sujithhubpost/polyeq/blob/main/screenshots/solver_solutions.png?raw=true)
 
 ### Here's how you can run the project
 
