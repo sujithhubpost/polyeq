@@ -18,7 +18,8 @@
 
 ![alt Home](https://github.com/sujithhubpost/polyeq/blob/main/screenshots/solver_solutions.png?raw=true)
 
-### Here's how you can run the project
+
+## Here's how you can run the project
 
  - Step 1 : Install python in your PC
 
